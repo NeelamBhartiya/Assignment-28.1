@@ -1,0 +1,27 @@
+#Assignment28_Session28
+
+#Problem
+• Use the “Sales_Data.xml” file.
+• Access the “xml” file in excel and save it to a comma delimited “csv” file.
+• Make all the rows where “attractiveness<6” to
+• background color = red, font = 8, font type = italic.
+• Hide All the rows where “attractiveness<6” by using grouping. Hide in the sense, we
+should be able to see there is some rows there, which we can unfold to see. Also try
+hiding the data without grouping.
+• Use the same data. The column named “attractiveness” is in general format. It is actually
+a rating from 1 to 10. Can you prepend “C” before the number. i.e. if it is 1, it should be
+converted to “C1”. Format the column to text type.
+
+#Answers
+#1 Simply open excel then go to FILE options in menu bar and then scroll down in OPEN option to pen your desired excel/xml file.
+
+#2 Open the xml file and then go to OPTIONS menu then go on to SAVE AS options in that when u like to save there is option of which to SAVE AS TYPE in that save your file as .csv in format.
+
+#3 For any amendment in background color, font, font type etc just go to HOME in menu bar and then we can change whatever we want to.
+
+#4 1)To hide the rows/columns just go to DATA options in menu bar and through GROUP,UNGROUP we can hide the rows/columns 
+     2)Just where our rows/columns labeling is going on in outline section select the rows/columns u want to hide then just RIGHT CLICK on that labelling section and then scroll down you see there is option of hide/unhide of rows/columns you can do there.
+ 
+
+
+
